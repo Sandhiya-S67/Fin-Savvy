@@ -33,7 +33,7 @@ FinSavvy is a modern, multi-page personal finance tracker built using **HTML**, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/finsavvy.git
+   git clone https://github.com/Sandhiya-S67/Fin-Savvy.git
    cd finsavvy
    ```
 
