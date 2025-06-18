@@ -1,25 +1,25 @@
 
-# 💸 FinSavvy - Smart Personal Finance Tracker
+# FinSavvy - Smart Personal Finance Tracker
 
 FinSavvy is a modern, multi-page personal finance tracker built using **HTML**, **CSS**, and **JavaScript**. It helps you manage income, expenses, budgets, and visualize your financial data—all offline using your browser’s `localStorage`.
 
 
-## 📌 Features
+## Features
 
-- ✅ **Dashboard Overview**: Real-time balance, income, expenses
-- ➕ **Add/Edit/Delete Transactions**: Complete transaction management
-- 🧾 **Full Transaction History**: Search, filter, and browse your entries
-- 🎯 **Budget Goals**: Set monthly goals and track progress
-- 📊 **Reports & Visual Charts**: Pie and line graphs for insights
-- 🌓 **Dark/Light Mode**: Theme toggle with preference saved
-- 🔐 **Optional PIN Lock**: Local device security
-- 💾 **Offline First**: All data stored locally with `localStorage`
-- 📤 **Export to CSV** 
+-  **Dashboard Overview**: Real-time balance, income, expenses
+-  **Add/Edit/Delete Transactions**: Complete transaction management
+-  **Full Transaction History**: Search, filter, and browse your entries
+-  **Budget Goals**: Set monthly goals and track progress
+-  **Reports & Visual Charts**: Pie and line graphs for insights
+-  **Dark/Light Mode**: Theme toggle with preference saved
+-  **Optional PIN Lock**: Local device security
+-  **Offline First**: All data stored locally with `localStorage`
+-  **Export to CSV** 
 
 ---
 
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **HTML5** – Semantic page structure
 - **CSS3** – Clean, responsive styling
@@ -29,7 +29,7 @@ FinSavvy is a modern, multi-page personal finance tracker built using **HTML**, 
 
 ---
 
- 🚀 How to Use
+  How to Use
 
 1. **Clone the repository:**
    ```bash
